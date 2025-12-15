@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "580159447192",
+    "project_id": "fir-restapi-11c65",
+    "storage_bucket": "fir-restapi-11c65.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:580159447192:android:f1ebce63cb824bf35d70ed",
+        "android_client_info": {
+          "package_name": "com.example.firebase_restapi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxxpLAXGO6CB67nD4uueQ06iHAvn32BEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
